@@ -1,6 +1,5 @@
 #!name=G1 ACQ
 #!desc=G1 ACQ v7.6.0 — Loon format
-#!system=ios
 
 [Rule]
 AND,((PROTOCOL,UDP),(DEST-PORT,443)),REJECT
